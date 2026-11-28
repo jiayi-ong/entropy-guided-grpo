@@ -1,0 +1,226 @@
+{
+  "animal-00": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-01": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-02": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-03": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-04": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-05": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-06": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-07": {
+    "attribute_0": false,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-08": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-09": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-10": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-11": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-12": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-13": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-14": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-15": {
+    "attribute_0": false,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-16": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-17": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-18": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-19": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-20": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-21": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-22": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-23": {
+    "attribute_0": true,
+    "attribute_1": false,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-24": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-25": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-26": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-27": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": false,
+    "attribute_3": true,
+    "attribute_4": true
+  },
+  "animal-28": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": false
+  },
+  "animal-29": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": false,
+    "attribute_4": true
+  },
+  "animal-30": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": false
+  },
+  "animal-31": {
+    "attribute_0": true,
+    "attribute_1": true,
+    "attribute_2": true,
+    "attribute_3": true,
+    "attribute_4": true
+  }
+}
